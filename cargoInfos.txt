@@ -1,0 +1,6 @@
+cargo21,16,resul,a,karabük,dursun,a,55,avcilar,YOLDA,
+cargo4,3,Resul,Aydoğmuş,AVCILAR,Mustafa,Özdemir,4521,ANTALYA,YOLDA,
+cargo5,1,Resul ,Aydoğmuş,BEŞİKTAŞ,Fethi,Kırmızı,928,BÜYÜKÇEKMECE,YOLDA,
+cargo6,3,Barış,Menteş,AVCILAR,Resul,Aydoğmuş,6333,BEŞİKTAŞ,YOLDA,
+cargo3,13,Resul,Aydoğmuş,AVCILAR,Resul,Yeşiloğlu,345533,KADIKÖY,TESLİM EDİLDİ,
+cargo1,5,Barış,Menteş,AVCILAR,Resul,Aydoğmuş,5521,BEŞİKTAŞ,TESLİM EDİLDİ,

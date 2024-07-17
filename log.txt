@@ -1,0 +1,13 @@
+30-05-2024 10:02:19: Giriş bilgilerinde eksik var.
+30-05-2024 10:02:28: Yönetici rea giriş yaptı.
+30-05-2024 10:03:00: efe kullanıcı adlı yönetici eklendi.
+30-05-2024 10:03:10: Eksik veri veya tamamen boş.
+30-05-2024 10:03:16: Bu kullanıcı zaten mevcut.
+30-05-2024 10:03:24: Düzenleme için satır seçilmelidir.
+30-05-2024 10:03:35: Bu kullanıcı adı alınmış.
+30-05-2024 10:03:45: arel kullanıcı adlı yönetici eklendi.
+30-05-2024 10:03:52: Seçili satır olmadığı için silinmedi.
+30-05-2024 10:05:55: Gönderici adresi ile alıcı aynı.
+30-05-2024 10:06:18: Desi değeri minumum 1 olmalıdır.
+30-05-2024 10:06:31: Desi değeri minumum 1 olmalıdır.
+30-05-2024 10:07:39: cargo7 numaralı kargo eklendi.

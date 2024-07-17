@@ -1,0 +1,42 @@
+KARGO ÜCRETİ NASIL HESAPLANIYOR?
+
+Kargo ücreti bu formüle dayaranarak hesaplanır:
+Bölgeler Arası KM * KM Ücreti + Desi Ücreti * Desi
+
+KM ÜCRETİ ve DESİ ÜCRETİ NE KADARDIR?
+
+KM ücreti 5 lira, desi ücreti 7 lira olarak işlem görmektedir.
+
+BÖLGELER ARASI KM NASIL ÖĞRENİLİR?
+
+Avrupa içi km ücreti 2 lira, asya içi km ücreti 2 lira, avrupa-Asya içi km ücreti 3 lira olmakla beraber bunları aşan kilometreler
+için 5 lira ücret kesilir.
+
+KARGOMU BEN ALMADIM, NE YAPMALIYIM?
+
+Acilen iletişim bilgileri bulunan Resul A.'ya ulaşınız.
+
+PROGRAM'DA SORUN YAŞIYORUM, KARGOMU GÖREMİYORUM?
+
+Resul A'ya e-posta göndererek sorunu lütfen açıklayınız.
+
+KARGOLAR KAÇ GÜNDE GELİYOR?
+
+Süreleri değişmekle beraber il içi kargolar 1 iş günü, iller arası kargolar 3 iş gününü bulabilmektedir.
+
+KARİYER FIRSATINIZ VAR MI?
+
+Firmamız bünyesinde her daim yeni kanlar görmeye hazırdır. Adresimize gelerek detaylı bilgi alabilirsiniz.
+
+MÜŞTERİLER NEDEN GÖNDEREN BİLGİSİNİ GÖREMİYOR?
+
+Müşteriler, gizlilik sebepleri nedeniyle sadece kargolarının gideceği ve bulunduğu adresi görebilmektedirler.
+
+TESLİM ALDIĞIM KARGOM ARTIK GÖRÜNMÜYOR?
+
+Yöneticiler teslim edilen kargoları kargo veritabanından çeşitli sebepler nedeniyle kaldırabilir.
+
+KARGO ÜCRETİNİ KABUL ETMEME / DEĞİŞTİRME ŞANSIMIZ VAR MI?
+
+Kargo ücretli belirli formüllere göre hesaplanmakta olup değişitirilme şansı yoktur. Bir kişi fiyatı kabul etmediği takdirde
+firmamızdan kargo gönderemez.
